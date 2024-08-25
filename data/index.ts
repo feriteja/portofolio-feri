@@ -76,7 +76,7 @@ export const projects = [
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
     img: "/daftar-sehat.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "daftar-sehat.vercel.app",
+    link: "https://daftar-sehat.vercel.app",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "AI-powered chat app for instant, smart conversations and personalized interactions, driven by advanced OpenAI technology.",
     img: "/brain-wave.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "brain-wave-swart.vercel.app",
+    link: "https://brain-wave-swart.vercel.app",
   },
   {
     id: 3,
@@ -106,7 +106,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/apple-clone.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "apple-clone-zeta-seven.vercel.app",
+    link: "https://apple-clone-zeta-seven.vercel.app",
   },
   {
     id: 5,
@@ -120,7 +120,7 @@ export const projects = [
       "/assets/appwrite.svg",
       "/dwolla.svg",
     ],
-    link: "ferbank.vercel.app",
+    link: "https://ferbank.vercel.app",
   },
 ];
 
